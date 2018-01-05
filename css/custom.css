@@ -1,0 +1,116 @@
+.navbar{
+  width: 100%;
+  position: relative;
+  text-align: center;
+  border-bottom: 1px solid grey;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+}
+
+.page{
+  position: relative;
+  margin: 0 auto;
+}
+
+.main{
+  border-top: 1px solid black;
+  display: block;
+  width: 1125px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.button-group{
+  position: absolute;
+  display: inline-block;
+  left: 0;
+}
+
+.user-tools{
+  position:absolute;
+  display: inline-block;
+  right: 0;
+}
+
+.ad-container{
+  width: 970px;
+  display: block;
+  margin: 15px auto;
+}
+
+.top-ad{
+  text-align: center;
+}
+
+.kicker {
+  margin-top: 7px;
+  margin-bottom: 32px;
+}
+
+.headline{
+  margin-bottom: 10px;
+}
+
+.story-header{
+  padding-top: 14px;
+  border-top: 1px solid black;
+}
+
+.story-info{
+  position: absolute;
+  float: left;
+  display: inline-block;
+}
+
+.social-tools{
+  float: right;
+}
+.social-links{
+  display: inline-flex;
+  margin: 0;
+  list-style: none;
+}
+
+.social-links li{
+  margin-right: 15px;
+}
+
+#comments-button {
+  display: inline-block;
+}
+
+.story-meta{
+  margin-bottom: 20px;
+}
+
+.clear-fix{
+  clear:both;
+}
+
+.story-image{
+  width: 100%;
+}
+
+.story-image-container{
+  margin-bottom: 45px;
+}
+
+.image-subtext{
+  width: 50%;
+  left:0;
+}
+
+.story-body{
+  width: 60%;
+}
+
+.story-paragraph{
+  margin-left: 75px;
+  margin-bottom: 17px;
+}
+
+.figure{
+  border-top: 1px solid grey;
+  padding-top: 15px;
+  width: 945px;
+}
